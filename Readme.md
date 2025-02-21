@@ -76,6 +76,6 @@ So I do my best in every specialtation area. My programming languages are NodeJS
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://count.getloli.com/@YT-Advanced?theme=original-new" />
+<img src="https://count.getloli.com/@soulreaper006?theme=original-new" />
   </div>
 <br>
