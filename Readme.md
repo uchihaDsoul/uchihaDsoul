@@ -18,15 +18,15 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Hoàng Gia Bảo.
+Name: SOUL REAPER.
 WhoamI: High School Student 🏫.
 Gender: Male.
-Location: DongNai, VietNam.
-Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
+Location: WEST BENGAL, INDIA.
+Loves: Videogames 🎮, Stuff technology 🚀, ANIME 🎴.
 Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: Bash, CPlusPlus, CSharp, Python, NodeJS, Java, Kotlin.
+Languages: Bash, CPlusPlus, C, Python, Java.
 Learning: Computer Science.
-Telegram: @annonyviet.
+Telegram: @Iam_Uchiha_itach.
 ```
 <br>
      
