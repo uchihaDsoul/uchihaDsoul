@@ -1,24 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for help with my projectes and to polish my skills<br>🌱 I’m currently learning Python<br>💬 Ask me about C C++<br>⚡ Fun fact i can't dance
+<h1 align="center">✨ Hi there I'm SOUL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+
+<body>
+<br>
+<div align="center">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+<br>
+
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
+
+```csharp
+My Profile
+-------------------------------
+Name: SOUL REAPER.
+WhoamI: High School Student 🏫.
+Gender: Male.
+Location: WEST BENGAL, INDIA.
+Loves: Videogames 🎮, Stuff technology 🚀, ANIME 🎴.
+Hobbies: Gaming, Coding while I am listening music 🎶.
+Languages: Bash, C++, C, Python, Java.
+Learning: Computer Science.
+Telegram: @Iam_Uchiha_itach.
+```
+<br>
+     
+<div>
+<h2 align="center"> 🔎 Knowledge 📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">I worked using Python for AI to code my Desktop App. A year ago, I learned Docker. Nowdays, I'm focus on Computer Science.
+So I do my best in every specialtation area. My programming languages are C++, Python, Shell Script, Powershell Script, Python. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,windows,git,github,docker&perline=7"alt="My Skills"/> 
+    </a>
+</p>
+<p align = "center">
+     <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,cpp,css,html&perline=4"alt="My Skills"/> 
+    </a>
+</p>
+</div>
+<br>
+
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<div> 
+<p align = "center">
+  <a href="https://github.com/"><img alt="soulreaper006's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YT-Advanced&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YT-Advanced&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YT-Advanced&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
+</div>
+<br>
+
+<h2 align="center"> My contributions game 🐍🎮</h2>
+
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.am.batman06) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Soul_Reaper_r) 
+</div>  
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  </div>
+<br> 
+</div>  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soulreaper006&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soulreaper006&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper006&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soulreaper006&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=soulreaper006&icon=5&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://count.getloli.com/@soulreaper006?theme=original-new" />
+  </div>
+<br>
