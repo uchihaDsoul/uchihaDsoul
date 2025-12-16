@@ -38,7 +38,8 @@ Telegram: @Iam_Uchiha_itach.
 So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script, Kotlin and Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,windows,git,github,docker,py,cpp,css,html&perline=7"alt="My Skills"/> 
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,windows,git,github,docker&perline=7"alt="My Skills"/> 
+          <img src="https://skillicons.dev/icons?i=py,cpp,css,html&perline=4"alt="My Skills"/> 
     </a>
 </p>
 </div>
