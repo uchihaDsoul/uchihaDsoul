@@ -34,8 +34,8 @@ Telegram: @Iam_Uchiha_itach.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I worked using Python for AI and CSharp to code my Desktop App. A year ago, I learned Kotlin and Java, also some reverse engineering to develope ReVanced Extended. Nowdays, I'm focus on Computer Science.
-So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script, Kotlin and Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
+<p align = "justify">I worked using Python for AI to code my Desktop App. A year ago, I learned Docker. Nowdays, I'm focus on Computer Science.
+So I do my best in every specialtation area. My programming languages are C++, Python, Shell Script, Powershell Script, Python. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,windows,git,github,docker&perline=7"alt="My Skills"/> 
