@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Bảo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">✨ Hi there I'm SOUL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 <body>
 <br>
@@ -24,7 +24,7 @@ Gender: Male.
 Location: WEST BENGAL, INDIA.
 Loves: Videogames 🎮, Stuff technology 🚀, ANIME 🎴.
 Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: Bash, CPlusPlus, C, Python, Java.
+Languages: Bash, C++, C, Python, Java.
 Learning: Computer Science.
 Telegram: @Iam_Uchiha_itach.
 ```
@@ -38,7 +38,7 @@ Telegram: @Iam_Uchiha_itach.
 So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script, Kotlin and Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,js,css,html,githubactions&perline=7"alt="My Skills"/> 
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,py,cpp,css,html,githubactions&perline=7"alt="My Skills"/> 
     </a>
 </p>
 </div>
